@@ -1,0 +1,18 @@
+.page-title {    
+  margin: 0;
+  padding: 2rem 0;
+  text-align: center;
+  font-family: 'XXII ARABIAN-ONENIGHTSTAND';
+  color: #d3cea1;
+}
+
+$selected-color: #d3cea1;
+  
+.button-group input{
+  display: none;
+}
+  
+.button-group input:checked + label,
+.button-group input:checked + label:active {
+  background-color: $selected-color;
+}

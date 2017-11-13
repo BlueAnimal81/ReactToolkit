@@ -1,0 +1,61 @@
+.pagina
+{ 
+  width:auto; 
+  height:auto; 
+} 
+
+.linha
+{ 
+  width:auto; 
+  padding:5px; 
+  height:auto; 
+  display:table; 
+}
+
+.section-title {    
+  text-align: left;
+  color: #fff;
+  font-size: 18px;
+}
+
+.tile
+{ 
+  height:120px; 
+  width:90px; 
+  float:left; 
+  margin: 5px; 
+  padding: 4px;   
+  border-radius: 4px;
+  border-color: #d3cea1;
+  border-width: 14px;
+} 
+
+.tileLargo
+{ 
+  width:210px; 
+}
+
+.tile-number {
+  font-size: 24pt;
+  display: inline-block;  
+}
+
+.tile-title {
+  display: inline-block;  
+}
+
+.red
+{ 
+  background:#b1311b; 
+  color: #fff;
+} 
+.green
+{ 
+  background:#309953; 
+  color: #fff;
+} 
+.blue
+{ 
+  background:#23488f; 
+  color: #fff;
+} 
